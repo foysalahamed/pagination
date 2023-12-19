@@ -21,7 +21,7 @@ public class ProductService {
     @Autowired
     private ProductRepository repository;
 
-//    @PostConstruct
+    @PostConstruct
 //    public void initDB() {
 //        List<Product> products = IntStream.rangeClosed(1, 200)
 //                .mapToObj(i -> new Product("product" + i, new Random().nextInt(100), new Random().nextInt(50000)))
