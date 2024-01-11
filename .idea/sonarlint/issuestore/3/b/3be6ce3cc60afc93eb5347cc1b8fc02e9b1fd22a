@@ -1,0 +1,18 @@
+
+{
+java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "products".(†™§Ùúÿÿÿÿ
+{
+java:S14881"`Immediately return this expression instead of assigning it to the temporary variable "products".(™µ·åýÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+Q	java:S125"<This block of commented-out lines of code should be removed.(îµþñ
+Q
+java:S1128";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ
+O
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
